@@ -54,7 +54,8 @@ namespace QueueManagement.Repository.PatientSection
 
         public Patient GetPatientByPhoneNo(string phoneNo)
         {
-            return _dbEntities.sp_PatientGetByPhoneNo(phoneNo);
+            var entitylist = _dbEntities.sp_PatientGetByPhoneNo(phoneNo);
+            return entitylist.FirstOrDefault();
         }
 
     }
