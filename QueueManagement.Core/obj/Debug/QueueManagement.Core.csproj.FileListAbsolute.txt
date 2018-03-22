@@ -1,0 +1,5 @@
+c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\QueueManagement.Core.dll
+c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\QueueManagement.Core.pdb
+c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.csprojResolveAssemblyReference.cache
+c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.dll
+c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.pdb
