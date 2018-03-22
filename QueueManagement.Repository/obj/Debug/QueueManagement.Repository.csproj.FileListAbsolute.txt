@@ -3,3 +3,10 @@ c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\Qu
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.csprojResolveAssemblyReference.cache
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.dll
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\bin\Debug\QueueManagement.Repository.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\bin\Debug\QueueManagement.Repository.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\bin\Debug\QueueManagement.Core.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\bin\Debug\QueueManagement.Core.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Repository\obj\Debug\QueueManagement.Repository.pdb

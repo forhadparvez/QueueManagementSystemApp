@@ -41,6 +41,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QueueManagement.Core\QueueManagement.Core.csproj">
+      <Project>{4aca9e3e-af9d-4ee6-8dc2-c15d1b0d4472}</Project>
+      <Name>QueueManagement.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QueueManagement.Repository\QueueManagement.Repository.csproj">
+      <Project>{fe6978ba-3765-4cac-bdce-41394d867d4b}</Project>
+      <Name>QueueManagement.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

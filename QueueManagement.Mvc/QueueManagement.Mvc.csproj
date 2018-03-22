@@ -237,6 +237,16 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QueueManagement.Core\QueueManagement.Core.csproj">
+      <Project>{4aca9e3e-af9d-4ee6-8dc2-c15d1b0d4472}</Project>
+      <Name>QueueManagement.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QueueManagement.Service\QueueManagement.Service.csproj">
+      <Project>{2e7940f1-bd28-4810-8c48-75ac57d701e4}</Project>
+      <Name>QueueManagement.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
