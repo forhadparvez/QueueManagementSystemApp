@@ -57,6 +57,7 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Mvc.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Mvc.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\AutoMapper.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\EntityFramework.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\EntityFramework.SqlServer.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
@@ -84,8 +85,10 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\System.Web.WebPages.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\System.Web.WebPages.Razor.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\WebGrease.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Repository.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Core.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Service.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\AutoMapper.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\System.Web.Helpers.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\System.Web.Mvc.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\System.Web.Optimization.xml
@@ -109,6 +112,9 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\bin\QueueManagement.Repository.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\obj\Debug\QueueManagement.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\obj\Debug\QueueManagement.Mvc.Migrations.InitialCreate.resources
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\obj\Debug\QueueManagement.Mvc.csproj.GenerateResource.Cache
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\obj\Debug\QueueManagement.Mvc.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Mvc\obj\Debug\QueueManagement.Mvc.pdb

@@ -1,11 +1,12 @@
 ﻿
-using QueueManagement.Repository.DataModels;
+using QueueManagement.Core.DataModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace QueueManagement.Repository.PatientSection
 {
-    public class PatientRepository
+    public class PatientRepository : IDisposable
     {
         private readonly QueueManagementDbEntities _dbEntities;
 
@@ -57,6 +58,17 @@ namespace QueueManagement.Repository.PatientSection
             var entitylist = _dbEntities.sp_PatientGetByPhoneNo(phoneNo);
             return entitylist.FirstOrDefault();
         }
+
+        public Patient GetById(int id)
+        {
+            return _dbEntities.Patients.SingleOrDefault(c => c.Id == id);
+        }
+
+        public void Dispose()
+        {
+            _dbEntities.Dispose();
+        }
+
 
     }
 }

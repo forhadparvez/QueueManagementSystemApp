@@ -82,6 +82,7 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\System.Web.Optimization.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\System.Web.Providers.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\WebGrease.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\QueueManagement.Repository.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\QueueManagement.Core.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\QueueManagement.Service.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\System.Web.Optimization.xml
@@ -103,6 +104,7 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\bin\QueueManagement.Repository.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\obj\Debug\QueueManagement.WebForm.csprojResolveAssemblyReference.cache
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\obj\Debug\QueueManagement.WebForm.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.WebForm\obj\Debug\QueueManagement.WebForm.pdb

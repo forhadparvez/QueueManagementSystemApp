@@ -7,8 +7,10 @@ C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\QueueManagement.Service.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\QueueManagement.Core.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\QueueManagement.Repository.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\EntityFramework.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\QueueManagement.Core.pdb
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\QueueManagement.Repository.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\bin\Debug\EntityFramework.xml
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\obj\Debug\QueueManagement.Service.csprojResolveAssemblyReference.cache
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\obj\Debug\QueueManagement.Service.dll
 C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Service\obj\Debug\QueueManagement.Service.pdb

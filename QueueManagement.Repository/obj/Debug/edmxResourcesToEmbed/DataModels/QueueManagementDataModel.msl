@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QueueManagementDbModelStoreContainer" CdmEntityContainer="QueueManagementDbEntities">
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="QueueManagementDbModel.Patient">
+        <MappingFragment StoreEntitySet="Patients">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_PatientGetAll" FunctionName="QueueManagementDbModel.Store.sp_PatientGetAll" />
+    <FunctionImportMapping FunctionImportName="sp_PatientGetByPhoneNo" FunctionName="QueueManagementDbModel.Store.sp_PatientGetByPhoneNo" />
+  </EntityContainerMapping>
+</Mapping>

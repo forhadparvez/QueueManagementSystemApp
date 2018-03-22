@@ -1,5 +1,4 @@
 ﻿body {
-    padding-top: 50px;
     padding-bottom: 20px;
 }
 
@@ -21,4 +20,48 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+/* ----------------------  Override  --------------------- */
+@media (min-width: 576px) {
+  .container {
+    max-width: 95%;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 95%;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 95%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 95%;
+  }
+}
+
+
+
+.body-content {
+    padding-top: 20px;
+}
+
+#footer {
+    position:fixed;
+    overflow: inherit;
+    margin-left: auto;
+    padding-top: 5px;
+    width: 100%;
+    bottom:0;
+    background-color:  #158CBA;
+    color: #ffffff;
+    text-align: center;
+    height: 30px;
 }

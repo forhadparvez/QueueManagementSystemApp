@@ -3,3 +3,13 @@ c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\Qu
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.csprojResolveAssemblyReference.cache
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.dll
 c:\users\netso\documents\visual studio 2013\Projects\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\QueueManagement.Core.dll.config
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\QueueManagement.Core.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\QueueManagement.Core.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\EntityFramework.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\EntityFramework.xml
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.dll
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.pdb
+C:\Users\netso\Documents\GitHub\QueueManagementSystemApp\QueueManagement.Core\obj\Debug\QueueManagement.Core.csprojResolveAssemblyReference.cache

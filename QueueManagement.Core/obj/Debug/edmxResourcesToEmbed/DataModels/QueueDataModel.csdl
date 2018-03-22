@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QueueManagementDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="QueueManagementDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Patients" EntityType="Self.Patient" />
+    <FunctionImport Name="sp_PatientGetAll" EntitySet="Patients" ReturnType="Collection(QueueManagementDbModel.Patient)" />
+    <FunctionImport Name="sp_PatientGetByPhoneNo" EntitySet="Patients" ReturnType="Collection(QueueManagementDbModel.Patient)">
+      <Parameter Name="PhoneNo" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sp_PatientGetAll_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="PhoneNo" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Age" Nullable="true" MaxLength="3" />
+  </ComplexType>
+  <ComplexType Name="sp_PatientGetByPhoneNo_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="PhoneNo" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Age" Nullable="true" MaxLength="3" />
+  </ComplexType>
+</Schema>
